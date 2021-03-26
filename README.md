@@ -2,9 +2,9 @@
 
 
 Esta practica se creo con el objetivo de realizar la unidad 3 
+Puedes ver el __sitio publicado__ [aquí](https://linda150.github.io/actividad7practica/)
 
-## Tecnologias utilizadas:
-
+## Tecnologias utilizadas
 -HTML
 -CSS
 -JavaScript
